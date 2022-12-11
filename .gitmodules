@@ -1,0 +1,12 @@
+[submodule "project/responsive_redesign"]
+	path = project/responsive_redesign
+	url = https://github.com/lazytiger721108/hw2.git
+[submodule "project/personas_and_storyboarding"]
+	path = project/personas_and_storyboarding
+	url = https://github.com/lazytiger721108/Assignment1.git
+[submodule "project/interactive_design"]
+	path = project/interactive_design
+	url = https://github.com/lazytiger721108/hw4.git
+[submodule "project/development"]
+	path = project/development
+	url = https://github.com/lazytiger721108/hw5_react_development.git
